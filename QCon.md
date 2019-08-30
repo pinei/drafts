@@ -1,0 +1,24 @@
+# QCon
+
+- Graal: How to use the new JVM JIT compiler in real life (Chris Thalinger)
+  - https://www.youtube.com/watch?v=_7yIUkP5LiQ
+- Serverless Java (Ivar Grimstad)
+  - https://www.youtube.com/watch?v=pXSIOwimqw0
+- Reactive Spring (Josh Long)
+  - https://www.youtube.com/watch?v=zVNIZXf4BG8
+  - https://www.youtube.com/watch?v=l7VBdWhtl7A
+  - https://www.youtube.com/watch?v=LFp9wqBone0
+  - https://www.youtube.com/watch?v=EDB24onZxsA
+  - https://www.youtube.com/watch?v=GbVpKF7tVeI
+- Type Inference: Friend or Foe (Venkat Subramaniam)
+  - https://www.youtube.com/watch?v=5phXVKgwu3Q
+- Multi-Tenancy in Kubernetes: Best Practices Today, and Future Directions - David Oppenheimer
+  - https://www.youtube.com/watch?v=xygE8DbwJ7c
+- Estendendo o Kubernetes (Ricardo Katz)
+  - https://www.youtube.com/watch?v=3MFXhCkXDUo
+- Melhorias de Performance com Webpack (Caio Incau)
+  - https://www.youtube.com/watch?v=QyUZnsmOK3w
+- Consensus algorithms, Paxos and Raft (Yifan Xing)
+  - https://www.youtube.com/watch?v=fcFqFfsAlSQ
+- Introduction to Zookeeper
+  - https://www.youtube.com/watch?v=dwTlW_HrsVg
